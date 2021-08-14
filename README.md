@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Chaniru.
-- 👀 I’m interested in HTML / CSS / JS / Batch.
+- 👀 I’m interested in HTML / CSS / JS / Batch / VB / C#.
 - 🌱 I’m currently learning at D.S.Senanayake College in Sri Lanka.
-- ✏️ I wnant to learn C / C# / C++ / JAVA.
-- 🎮 I am a pro gamer in Garena Free Fire . My id 2335330902 (Play a custom game with me).
-- ☎️ I you can contact me on whatsapp +94717332666.
+- ✏️ I wnant to learn C++ C++ / JAVA.
 - 🐈 I like cats
 
 <!---
