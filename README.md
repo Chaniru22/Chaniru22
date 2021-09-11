@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chaniru.
 - 👀 I’m interested in HTML / CSS / JS / Batch / VB / C#.
 - 🌱 I’m currently learning at D.S.Senanayake College in Sri Lanka.
-- ✏️ I wnant to learn C++ C++ / JAVA.
+- ✏️ I wnant to learn  C++ / JAVA.
 - 🐈 I like cats
 
 <!---
